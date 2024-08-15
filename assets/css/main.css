@@ -1464,3 +1464,7 @@ section,
 .my-row{
   margin-top: 30px;
 }
+
+.img-fluid{
+  max-height: 280px;
+}
