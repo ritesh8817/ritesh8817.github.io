@@ -16,7 +16,7 @@ Features
 Tech Stack
 Frontend: HTML, CSS, JavaScript (React.js)
 
-Backend: Node.js (Express) / Django
+Backend: PHP
 
 Database: MongoDB / PostgreSQL
 
