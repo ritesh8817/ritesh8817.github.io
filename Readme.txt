@@ -1,1 +1,1 @@
-Its is my Resume Portfolio.
+It is my Resume Portfolio.
